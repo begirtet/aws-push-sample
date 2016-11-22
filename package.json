@@ -25,5 +25,19 @@
     "cordova-plugin-statusbar",
     "ionic-plugin-keyboard"
   ],
-  "cordovaPlatforms": []
+  "cordovaPlatforms": [],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/begirtet/aws-push-sample.git"
+  },
+  "author": "begirtet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/begirtet/aws-push-sample/issues"
+  },
+  "homepage": "https://github.com/begirtet/aws-push-sample#readme"
 }
